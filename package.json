@@ -1,0 +1,10 @@
+{
+  "name": "crawl-gbt-references-skill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Runtime dependencies for the crawl-gbt-references Codex skill",
+  "type": "module",
+  "dependencies": {
+    "playwright-core": "1.61.0"
+  }
+}

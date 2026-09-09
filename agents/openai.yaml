@@ -1,0 +1,4 @@
+interface:
+  display_name: "GB/T Reference Crawler"
+  short_description: "Crawl and insert GB/T 7714 references"
+  default_prompt: "Use $crawl-gbt-references to crawl verified GB/T 7714 citations and insert them into my manuscript."
